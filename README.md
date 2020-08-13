@@ -61,9 +61,11 @@ The project generate a `team.html` page in the `output` directory, that displays
 
 ### Deployed link
 
-https://github.com/kerishma/Template-Engine---Employee-Summary/blob/master/Untitled_%20Aug%2013%2C%202020%201_23%20PM.gif
+
 
 ### image
+
+
 
 ### Gif Demo
 
