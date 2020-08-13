@@ -62,7 +62,10 @@ The project generate a `team.html` page in the `output` directory, that displays
 ### Deployed link
 
 
+
 ### image
+
+
 
 ### Gif Demo
 
