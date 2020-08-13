@@ -65,7 +65,6 @@ The project generate a `team.html` page in the `output` directory, that displays
 
 ### image
 
-![](images/image.png)
 
 ### Gif Demo
 
